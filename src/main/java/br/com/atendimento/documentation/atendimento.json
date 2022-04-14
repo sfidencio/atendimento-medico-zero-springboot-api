@@ -1,0 +1,11 @@
+{
+  "dataHoraAtendimento":"20/08/2021 00:52",
+  "dataHoraEncerramento":"21/08/2021 00:52",
+  "situacao": {"id": "1"},
+  "paciente":{"id": "2"},
+  "diagnostico" : "Paciente diagnosticado com cancer"
+}
+
+
+
+
